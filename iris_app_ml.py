@@ -1,6 +1,7 @@
 from telnetlib import SB
 import streamlit as st
 import pandas as pd
+pip install scikit-learn
 import sklearn
 from sklearn import datasets
 from sklearn.ensemble import RandomForestClassifier
